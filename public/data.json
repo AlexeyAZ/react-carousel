@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Жидкость Candy King 1",
+    "href": "",
+    "rate": 4,
+    "price": "1 290",
+    "currency": "руб.",
+    "reviews": 1,
+    "img": {
+      "url": "img/img1.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 2",
+    "href": "",
+    "rate": 2.5,
+    "price": "390",
+    "currency": "руб.",
+    "reviews": 3,
+    "img": {
+      "url": "img/img2.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 3",
+    "href": "",
+    "rate": 4.5,
+    "price": "1 290",
+    "currency": "руб.",
+    "reviews": 6,
+    "img": {
+      "url": "img/img3.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 4",
+    "href": "",
+    "rate": 5,
+    "price": "1 390",
+    "currency": "руб.",
+    "reviews": 10,
+    "img": {
+      "url": "img/img4.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 5",
+    "href": "",
+    "rate": 3,
+    "price": "590",
+    "currency": "руб.",
+    "reviews": 5,
+    "img": {
+      "url": "img/img5.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 6",
+    "href": "",
+    "rate": 4.5,
+    "price": "1 290",
+    "currency": "руб.",
+    "reviews": 0,
+    "img": {
+      "url": "img/img6.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 7",
+    "href": "",
+    "rate": 5,
+    "price": "1 390",
+    "currency": "руб.",
+    "reviews": 11,
+    "img": {
+      "url": "img/img7.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 8",
+    "href": "",
+    "rate": 3,
+    "price": "2 590",
+    "currency": "руб.",
+    "reviews": 5,
+    "img": {
+      "url": "img/img8.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 9",
+    "href": "",
+    "rate": 4.6,
+    "price": "2 390",
+    "currency": "руб.",
+    "reviews": 2,
+    "img": {
+      "url": "img/img9.jpg"
+    }
+  },
+  {
+    "name": "Жидкость Candy King 10",
+    "href": "",
+    "rate": 5,
+    "price": "1 390",
+    "currency": "руб.",
+    "reviews": 6,
+    "img": {
+      "url": "img/img10.jpg"
+    }
+  }
+]
