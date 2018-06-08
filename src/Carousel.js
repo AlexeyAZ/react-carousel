@@ -20,7 +20,6 @@ const CarouselWrapper = styled(Slider)`
   
   .slick-arrow {
     transform: translateY(-50%) scaleY(1.3);
-    /* background-color: red; */
 
     &.slick-prev,
     &.slick-next {
@@ -247,7 +246,6 @@ export default class Carousel extends Component {
   }
 
   render() {
-    // const { data } = this.state;
     const slides = this.state.data.map((item, index) => {
 
       return (
